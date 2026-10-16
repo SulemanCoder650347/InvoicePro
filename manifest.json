@@ -3,15 +3,22 @@
   "short_name": "InvoicePro",
   "description": "Professional Mobile Invoice Generator for Products, Services & Logistics",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#070a14",
   "theme_color": "#070a14",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='120' fill='%23070a14'/><circle cx='256' cy='256' r='180' fill='%236366f1' fill-opacity='0.2'/><path d='M256 120 L350 280 L270 280 L310 392 L190 250 L260 250 Z' fill='%2306b6d4'/><text x='256' y='460' font-family='sans-serif' font-size='48' font-weight='bold' fill='%23ffffff' text-anchor='middle'>INVOICE</text></svg>",
-      "sizes": "192x192 512x512",
-      "type": "image/svg+xml",
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
