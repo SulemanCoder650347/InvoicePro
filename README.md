@@ -3,8 +3,7 @@
 <div align="center">
 
 [![Download Android APK](https://img.shields.io/badge/📥_Download-Android_APK-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://github.com/SulemanCoder650347/InvoicePro/raw/main/GitHub.apk)
-[![Launch Live Web App](https://img.shields.io/badge/🌐_Launch-Live_Web_App-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sulemancoder650347.github.io/InvoicePro/)
-
+https://github.com/SulemanCoder650347/InvoicePro/raw/main/InvoicePro.apk
 </div># ⚡ InvoicePro — Modern Mobile & Web Invoice Studio
 
 InvoicePro is a sleek, responsive, and mobile-first invoice generator built for freelancers, agencies, and logistics operators. It supports instant PDF exports, real-time interactive invoice previews, direct WhatsApp sharing, and full offline PWA capabilities.
