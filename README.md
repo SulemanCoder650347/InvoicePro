@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://sulemancoder650347.github.io/InvoicePro/invoice.apk"
+[![Download Android APK](https://img.shields.io/badge/Download-Android_APK-green?style=for-the-badge&logo=android)](https://github.com/SulemanCoder650347/InvoicePro/raw/refs/heads/main/Invoice%20Pro.apk?download=1)
    download="InvoicePro.apk"
    style="display:inline-block;padding:14px 28px;background:#1d4ed8;color:#fff;
           border-radius:10px;font-weight:600;text-decoration:none;font-family:sans-serif;">
