@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download Android APK](https://img.shields.io/badge/Download-Android_APK-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://github.com/SulemanCoder650347/InvoicePro/raw/refs/heads/main/Invoice%20Pro.apk)
+[![Download Android APK](https://img.shields.io/badge/Download-Android_APK-green?style=for-the-badge&logo=android)](https://github.com/SulemanCoder650347/InvoicePro/raw/refs/heads/main/Invoice%20Pro.apk?download=1)
 [![Launch Live Web App](https://img.shields.io/badge/🌐_Launch-Live_Web_App-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sulemancoder650347.github.io/InvoicePro/)
 
 </div>
