@@ -1,6 +1,25 @@
 # ⚡ InvoicePro — Modern Mobile & Web Invoice Studio
 
+<div align="center">
+
+[![Download Android APK](https://img.shields.io/badge/📥_Download-Android_APK-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://github.com/SulemanCoder650347/InvoicePro/raw/main/InvoicePro.apk)
+[![Launch Live Web App](https://img.shields.io/badge/🌐_Launch-Live_Web_App-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sulemancoder650347.github.io/InvoicePro/)
+
+</div>
+
+---
+
 InvoicePro is a sleek, responsive, and mobile-first invoice generator built for freelancers, agencies, and logistics operators. It supports instant PDF exports, real-time interactive invoice previews, direct WhatsApp sharing, and full offline PWA capabilities.
+
+---
+
+## 📱 Quick Download & Install
+
+- **Option 1: Direct APK Download**  
+  Click the green **[📥 Download Android APK](https://github.com/SulemanCoder650347/InvoicePro/raw/main/InvoicePro.apk)** button above. Tap the downloaded `.apk` file on your phone and select **Install**.
+
+- **Option 2: Install via Browser (No APK required)**  
+  Open **[InvoicePro Live](https://sulemancoder650347.github.io/InvoicePro/)** in Chrome on Android / iOS and tap **"Install App"** / **"Add to Home screen"**. It installs instantly and works 100% offline!
 
 ---
 
@@ -27,17 +46,4 @@ InvoicePro is a sleek, responsive, and mobile-first invoice generator built for 
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/InvoicePro.git
-   ```
-2. Open `index.html` in any modern web browser:
-   - Double click `index.html` OR
-   - Run a local server: `npx serve .`
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML5, Modern CSS3 (Glassmorphism, CSS Custom Properties), Vanilla JavaScript
-- **Libraries**: [jsPDF](https://github.com/parallax/jsPDF) (Client-side PDF generation)
-- **Typography**: Plus Jakarta Sans, Outfit, JetBrains Mono
-- **Offline / PWA**: Service Workers Cache API, Web App Manifest
+   git clone https://github.com/SulemanCoder650347/InvoicePro.git
