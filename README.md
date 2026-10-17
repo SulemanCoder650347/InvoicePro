@@ -1,13 +1,4 @@
-# ⚡ InvoicePro — Modern Mobile & Web Invoice Studio
 
-<div align="center">
-
-
-   download="InvoicePro.apk"
-   style="display:inline-block;padding:14px 28px;background:#1d4ed8;color:#fff;
-          border-radius:10px;font-weight:600;text-decoration:none;font-family:sans-serif;">
-  📥 Download InvoicePro App
-</a>
 [![Launch Live Web App](https://img.shields.io/badge/🌐_Launch-Live_Web_App-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sulemancoder650347.github.io/InvoicePro/)
 
 </div>
