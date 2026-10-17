@@ -11,8 +11,6 @@ InvoicePro is a sleek, responsive, and mobile-first invoice generator built for 
 
 ## 📱 Quick Download & Install
 
-- **Option 1: Direct APK Download**  
-  Click the green **[📥 Download Android APK](https://github.com/SulemanCoder650347/InvoicePro/raw/main/InvoicePro.apk)** button above. Tap the downloaded `.apk` file on your phone and select **Install**.
 
 - **Option 2: Install via Browser (No APK required)**  
   Open **[InvoicePro Live](https://sulemancoder650347.github.io/InvoicePro/)** in Chrome on Android / iOS and tap **"Install App"** / **"Add to Home screen"**. It installs instantly and works 100% offline!
